@@ -1,10 +1,10 @@
 # UIDAI_HACKATHON
-Aadhaar Demographic Data Analysis (EDA)
-Project Description
+## Aadhaar Demographic Data Analysis (EDA)
+### Project Description
 
 This project performs Exploratory Data Analysis (EDA) on Aadhaar demographic data to identify age-wise population patterns, district-level disparities, and time-based trends across India. The analysis uses statistical methods and visualizations to uncover meaningful demographic insights that support data-driven understanding and decision-making.
 
-Dataset Used
+### Dataset Used
 
 The dataset contains Aadhaar demographic information with the following columns:
 
@@ -22,7 +22,7 @@ Date – Record date
 
 Total Records: 1.59 million+
 
-Analysis Performed
+### Analysis Performed
 
 Univariate Analysis (distribution, skewness, outliers)
 
@@ -34,7 +34,7 @@ Time-series trend analysis
 
 District-level and state-level comparative analysis
 
-Tools and Technologies
+### Tools and Technologies
 
 Python
 
@@ -48,7 +48,7 @@ Seaborn
 
 Jupyter Notebook
 
-Key Outcomes
+### Key Outcomes
 
 Identified strong correlation between child and adult demographics
 
@@ -58,6 +58,6 @@ Detected extreme skewness and outliers in demographic distributions
 
 Highlighted temporal variations in demographic activity
 
-Conclusion
+### Conclusion
 
 The analysis provides a structured understanding of Aadhaar demographic patterns across India and demonstrates how EDA can be used to transform large-scale government data into actionable insights.
